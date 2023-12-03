@@ -13,7 +13,7 @@ aux_links:
 
 
 math: mathjax
-enable_copy_code_button: false
+enable_copy_code_button: true
 
 footer_content: 'This work is licensed under a <a target="_blank" rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"">Creative Commons Attribution-ShareAlike 4.0 International License</a>'
 
